@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Wizard Card App"
 include ':app'
+include ':design'
+include ':domain'
+include ':core'
+include ':network'
